@@ -1,3 +1,7 @@
 today is 2020.4.15
 hello world
+<<<<<<< HEAD
 the apple is bad
+=======
+hello
+>>>>>>> 6b6d5df14ae62d85729d10a1ad95d77eac5561ab
